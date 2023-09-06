@@ -1,0 +1,2 @@
+../Drivers/Modules/flexsensor.c:8:6:flexsensor_init	1
+../Drivers/Modules/flexsensor.c:11:7:flexsensor_read	1

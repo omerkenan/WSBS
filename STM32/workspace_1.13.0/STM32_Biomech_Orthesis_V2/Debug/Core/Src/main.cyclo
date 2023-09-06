@@ -1,0 +1,17 @@
+../Core/Src/main.c:136:6:Read_ADC0	2
+../Core/Src/main.c:152:6:Read_ADC1	2
+../Core/Src/main.c:168:6:Read_ADC2	2
+../Core/Src/main.c:184:6:Read_ADC3	2
+../Core/Src/main.c:200:6:Read_ADC4	2
+../Core/Src/main.c:216:6:floatToChar	1
+../Core/Src/main.c:220:6:MPU6050_Init	2
+../Core/Src/main.c:276:6:flexAngle	1
+../Core/Src/main.c:285:6:flexAngleShort	1
+../Core/Src/main.c:294:6:MPU6050_Init_2	2
+../Core/Src/main.c:352:6:MPU_6050_Read_Accel	1
+../Core/Src/main.c:379:7:MPU6050_Read_Gyro	1
+../Core/Src/main.c:413:6:MPU_6050_Read_Accel_2	1
+../Core/Src/main.c:439:7:MPU6050_Read_Gyro_2	1
+../Core/Src/main.c:476:5:main	3
+../Core/Src/main.c:671:6:SystemClock_Config	3
+../Core/Src/main.c:722:6:Error_Handler	1
