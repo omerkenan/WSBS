@@ -1,6 +1,5 @@
-# Biomedical Monitoring Project
+# Wearable Sensor-Based System for Detecting Neck and Back Posture Problems
 
-[![Video](https://img.youtube.com/vi/uOef-rk86xs/0.jpg)](https://www.youtube.com/watch?v=uOef-rk86xs)
 
 This project is designed for biomedical monitoring using STM32 and NodeMCU. It allows for wireless data collection and real-time reporting of a patient's vital signs to a local server. The project includes a combination of hardware and software components, including sensor measurements, algorithm calculations, data transmission via Wi-Fi, and a user-friendly web interface.
 
@@ -13,6 +12,7 @@ This project is designed for biomedical monitoring using STM32 and NodeMCU. It a
 - [Calibration](#calibration)
 - [API](#api)
 - [Contributing](#contributing)
+- [Video](#video)
 - [License](#license)
 
 ## Features
@@ -65,6 +65,10 @@ http://your-server-ip/data
 
 - Contributions to this project are welcome.
 - Fork the repository, make your changes, and submit a pull request.
+
+## Video
+
+[![Video](https://img.youtube.com/vi/uOef-rk86xs/0.jpg)](https://www.youtube.com/watch?v=uOef-rk86xs)
 
 ## License
 
